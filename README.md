@@ -59,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="left"> <a href="https://github.com/ImAbhi1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImAbhi1&title=MultiLanguage,Reositories,Commits,Stars,Followers&column=4&theme=buddhism" alt="DYZGAMING" /></a> </p>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshu-2022&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImAbhi1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAbhi1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
